@@ -1,0 +1,5 @@
+<?xml version = "1.0"?>
+<python>
+	<independentlibrary>workalendar,PyDrive,Pillow,tia,xlrd,yahoo-finance,pysftp==0.2.8</independentlibrary>
+	<dependentlibrary>C:\Additional_wheels\blpapi-3.5.2-cp27-none-win_amd64.whl</dependentlibrary>
+</python>

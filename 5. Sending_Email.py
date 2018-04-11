@@ -29,6 +29,6 @@ msg.attach(part)
 server = smtplib.SMTP("smtp.gmail.com:587")
 server.ehlo()
 server.starttls()
-server.login("bigdatadeepak@gmail.com", "Qet29#nicin")
+server.login("bigdatadeepak@gmail.com", "##YOUR_Password_Please##")
 
 server.sendmail(msg['From'], emaillist, msg.as_string())
